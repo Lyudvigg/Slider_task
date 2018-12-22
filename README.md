@@ -1,3 +1,3 @@
 # Slider_task
 
-#Test Task in Bootstrap.3
+Test Task in Bootstrap.3
